@@ -31,6 +31,7 @@ body {
     font-size: 8vmin;
     color: #b0413e;
     background-color: #009DDC;
+    cursor: pointer;
   }
   #reset-btn {
     padding: 1rem;
@@ -39,6 +40,7 @@ body {
     color: #fff;
     border-radius: 1rem;
     border: none;
+    cursor: pointer;
   }
 
   #new-btn {
@@ -48,6 +50,7 @@ body {
     color: #6761A8;
     border-radius: 1rem;
     border: none;
+    cursor: pointer;
   }
   
   #msg {
